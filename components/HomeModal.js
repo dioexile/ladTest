@@ -73,8 +73,8 @@ const styles = StyleSheet.create({
   },
   close:{
     position:'absolute',
-    right: 10,
-    top:10
+    right: 5,
+    top:5
   },
   modalOption:{
     paddingVertical: 10,
